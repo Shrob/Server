@@ -1,0 +1,1 @@
+Running option : -Djava.security.manager -Djava.security.policy=pl.policy
